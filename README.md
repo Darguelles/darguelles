@@ -18,12 +18,4 @@ You can see what I am currently up to on [my medium blog](https://diego-rojas.me
 
 - Hands-on: Full stack development with Aurelia: 
   [https://www.amazon.com/-/es/Diego-Jose-Argüelles-Rojas-ebook](https://www.amazon.com/-/es/Diego-Jose-Argüelles-Rojas-ebook/dp/B07BDJL7KQ)
-
-
-<div style="text-align: center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darguelles&show_icons=true&theme=merko)
-
-</div>
-
-
+  
