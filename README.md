@@ -1,7 +1,7 @@
 Hey 👋🏻,
 
-I am a Software Engineer working currently as SRE focused in the Cyber-security area. Currently, 
-living in Brazil 🇧🇷, I am interested in research and explore emerging technologies, writing books, 
+I am a Software Engineer working now in IoT platform development, with focus on DevSecOps practices. I am 
+interested in research and explore emerging technologies, writing books, 
 articles and playing guitar 🤟.
 
 You can see what I am currently up to on [my medium blog](https://diego-rojas.medium.com).
@@ -13,6 +13,7 @@ You can see what I am currently up to on [my medium blog](https://diego-rojas.me
 - Blog: [https://diego-rojas.medium.com](https://diego-rojas.medium.com)
 - I also publish articles here:
     - [QuintoAndar Tech blog](https://medium.com/quintoandar-tech-blog)
+    - [Javarevisited](https://medium.com/javarevisited)
 
 ## 📕 Published Books
 
