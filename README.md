@@ -1,14 +1,14 @@
 Hallo 👋🏻,
 
-I am a Software Engineer tired of dealing with sacalability, observability and security issues, so now I'm focused on solving those problems applying DevSecOps practices, SRE and other herbs. I am interested in research and explore emerging technologies, writing books, articles and playing guitar 🤟.
+I am a Software Engineer with strong backgorund resolving sacalability, observability and cyber-security issues, so now I help organizations applying DevSecOps practices, SRE and other herbs. I am interested in research and explore emerging technologies, focused now in AuthN and AuthZ standards, such FIDO2, WebAuthn, OpenID and OAuth2. On free times I enjoy writing tech articles, play shooter games and playing guitar 🤟.
 
-You can see what I am currently up to on [my medium blog](https://diego-rojas.medium.com).
+You can see what I am currently up to on [my medium blog](https://medium.com/@diego-rojas).
 
 ## 📬 Get in touch
 
 - Web: [https://darguelles.github.io](https://darguelles.github.io)
 - LinkedIn: [linkedin.com/in/diego-arguelles-rojas](https://www.linkedin.com/in/diego-rojas-nl/)
-- Blog: [https://diego-rojas.medium.com](https://diego-rojas.medium.com)
+- Blog: [https://diego-rojas.medium.com](https://medium.com/@diego-rojas)
 - I also publish articles here:
     - [WAES Tech blog](https://medium.com/wearewaes)
     - [QuintoAndar Tech blog](https://medium.com/quintoandar-tech-blog)
