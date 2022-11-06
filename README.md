@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darguelles&label=Profile%20views&color=0e75b6&style=flat" alt="darguelles" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darguelles&show_icons=true&locale=en" alt="darguelles" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darguelles&show_icons=true&theme=transparent" alt="darguelles" /></p>
 
 Hallo 👋🏻,
 
