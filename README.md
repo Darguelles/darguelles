@@ -3,7 +3,7 @@
 
 Hallo 👋🏻,
 
-I am a Software Engineer with strong backgorund resolving sacalability, observability and cyber-security issues, so now I help organizations applying DevSecOps practices, SRE and other herbs. I am interested in research and explore emerging technologies, focused now in AuthN and AuthZ standards, such FIDO2, WebAuthn, OpenID and OAuth2. On free times I enjoy writing tech articles, play shooter games and playing guitar 🤟.
+DevOps engineer with strong backgorund resolving sacalability, realiability and cyber-security issues, so now I help organizations applying DevSecOps practices, SRE and other herbs. Co-founder of [HalloID](https://halloid.io), on free times I enjoy writing tech articles, a good shooter game and playing guitar 🤟.
 
 You can see what I am currently up to on [my medium blog](https://medium.com/@diego-rojas).
 
@@ -13,6 +13,7 @@ You can see what I am currently up to on [my medium blog](https://medium.com/@di
 - LinkedIn: [linkedin.com/in/diego-arguelles-rojas](https://www.linkedin.com/in/diego-rojas-nl/)
 - Blog: [https://diego-rojas.medium.com](https://medium.com/@diego-rojas)
 - I also publish articles here:
+    - [HalloID Tech blog](https://medium.com/halloid)
     - [WAES Tech blog](https://medium.com/wearewaes)
     - [QuintoAndar Tech blog](https://medium.com/quintoandar-tech-blog)
     - [Javarevisited](https://medium.com/javarevisited)
