@@ -2,7 +2,7 @@ Hallo 👋🏻,
 
 System engineer, sometimes guitar player. I love everything that challenges me and helps me build a better version of myself.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Darguelles&theme=dark&hide_border=true&background=45%2C1D2EEB%2C584605)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Darguelles&theme=dark&mode=weekly&currStreakNum=EB5454&background=45%2C231FEB%2C495830)](https://git.io/streak-stats)
 
 ### 📬 Get in touch
 
