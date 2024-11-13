@@ -2,6 +2,8 @@ Hallo 👋🏻,
 
 System engineer, sometimes guitar player. I love everything that challenges me and helps me build a better version of myself.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Darguelles&theme=dark&hide_border=true&background=45%2C1D2EEB%2C584605)](https://git.io/streak-stats)
+
 ### 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/diego-arguelles-rojas](https://www.linkedin.com/in/diego-rojas-nl/)
