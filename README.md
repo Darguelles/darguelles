@@ -2,13 +2,11 @@ Hallo 👋🏻,
 
 System engineer, sometimes guitar player. I love everything that challenges me and helps me build a better version of myself.
 
-You can see what I am currently up to on [my medium blog](https://medium.com/@diego-rojas).
-
 ### 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/diego-arguelles-rojas](https://www.linkedin.com/in/diego-rojas-nl/)
 - Blog: [https://diego-rojas.medium.com](https://medium.com/@diego-rojas)
-- I collaborate with ndifferent publications as well:
+- I collaborate with other Medium publications as well:
     - [HalloID Tech blog](https://medium.com/halloid)
     - [WAES Tech blog](https://medium.com/wearewaes)
     - [QuintoAndar Tech blog](https://medium.com/quintoandar-tech-blog)
